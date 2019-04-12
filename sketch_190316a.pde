@@ -116,7 +116,7 @@ void draw(){
       background(#AF69D3);
          textSize(30);
     text("Score:  " , 550, 175);
-    fill(#5CC679);
+    fill(#F75FF7);
   ellipse(mouseX,mouseY,x,x);
   fill(0,0,255);
     if(mousePressed ){
